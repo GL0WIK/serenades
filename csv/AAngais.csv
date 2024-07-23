@@ -1,0 +1,440 @@
+numero;rep;nom_voie;lon;lat
+1;;Camy Meda;-0.248415;43.23264
+4;;Camy Meda;-0.248428;43.232326
+5;;Camy Meda;-0.247948;43.232191
+59;;Camy Meda;-0.243646;43.227721
+1;;Lotissement Bonnecaze;-0.250789;43.230393
+2;;Lotissement Bonnecaze;-0.251096;43.230156
+3;;Lotissement Bonnecaze;-0.251389;43.229994
+4;;Lotissement Bonnecaze;-0.25139;43.229994
+1;;Rue Las Clabades;-0.258473;43.238602
+2;;Rue Las Clabades;-0.257946;43.238458
+3;;Rue Las Clabades;-0.258243;43.238728
+4;;Rue Las Clabades;-0.257579;43.238671
+5;;Rue Las Clabades;-0.258009;43.238911
+6;;Rue Las Clabades;-0.257242;43.238826
+7;;Rue Las Clabades;-0.258347;43.239118
+8;;Rue Las Clabades;-0.257587;43.239098
+9;;Rue Las Clabades;-0.258566;43.239445
+12;;Rue Las Clabades;-0.258267;43.239598
+1;;Rue du Néouvielle;-0.247521;43.234512
+2;;Rue du Néouvielle;-0.247696;43.234647
+3;;Rue du Néouvielle;-0.247917;43.234252
+4;;Rue du Néouvielle;-0.248131;43.234473
+2;;Rue Les Colibris;-0.251273;43.232267
+3;;Rue Les Colibris;-0.251091;43.232872
+4;;Rue Les Colibris;-0.250957;43.232469
+6;;Rue Les Colibris;-0.250666;43.232599
+8;;Rue Les Colibris;-0.250432;43.232712
+10;;Rue Les Colibris;-0.250147;43.232891
+1;;Rue du Pic du Midi;-0.249148;43.236281
+2;;Rue du Pic du Midi;-0.249551;43.236422
+3;;Rue du Pic du Midi;-0.248831;43.236092
+4;;Rue du Pic du Midi;-0.249512;43.23576
+5;;Rue du Pic du Midi;-0.24835;43.235754
+7;;Rue du Pic du Midi;-0.248188;43.235593
+8;;Rue du Pic du Midi;-0.248322;43.235244
+9;;Rue du Pic du Midi;-0.248073;43.235502
+10;;Rue du Pic du Midi;-0.248638;43.235067
+11;;Rue du Pic du Midi;-0.247998;43.235402
+12;;Rue du Pic du Midi;-0.248834;43.234883
+13;;Rue du Pic du Midi;-0.247526;43.235666
+14;;Rue du Pic du Midi;-0.248033;43.234838
+15;;Rue du Pic du Midi;-0.247644;43.235287
+16;;Rue du Pic du Midi;-0.248536;43.234693
+17;;Rue du Pic du Midi;-0.247253;43.234857
+19;;Rue du Pic du Midi;-0.247029;43.234745
+21;;Rue du Pic du Midi;-0.243149;43.232108
+25;;Rue du Pic du Midi;-0.24063;43.230161
+26;;Rue du Pic du Midi;-0.244374;43.23225
+27;;Rue du Pic du Midi;-0.239851;43.230601
+29;;Rue du Pic du Midi;-0.24064;43.229947
+32;;Rue du Pic du Midi;-0.242455;43.230697
+33;;Rue du Pic du Midi;-0.238851;43.230066
+36;;Rue du Pic du Midi;-0.240841;43.229418
+42;;Rue du Pic du Midi;-0.240156;43.228904
+44;;Rue du Pic du Midi;-0.240633;43.228692
+46;;Rue du Pic du Midi;-0.239956;43.228519
+15;ter;Rue du Pic du Midi;-0.246975;43.235123
+19;bis;Rue du Pic du Midi;-0.246742;43.23458
+2;bis;Rue du Pic du Midi;-0.249362;43.236068
+3;bis;Rue du Pic du Midi;-0.248156;43.236431
+3;ter;Rue du Pic du Midi;-0.247906;43.236328
+19;quater;Rue du Pic du Midi;-0.246113;43.234398
+33;bis;Rue du Pic du Midi;-0.238345;43.230234
+15;bis;Rue du Pic du Midi;-0.247314;43.235359
+19;ter;Rue du Pic du Midi;-0.246287;43.234565
+1;;Impasse Cournales;-0.259308;43.23882
+3;;Impasse Cournales;-0.25901;43.239091
+5;;Impasse Cournales;-0.259018;43.238797
+1;;Rue des Pins;-0.254382;43.239125
+2;;Rue des Pins;-0.254185;43.239105
+3;;Rue des Pins;-0.254453;43.239288
+4;;Rue des Pins;-0.254183;43.239357
+5;;Rue des Pins;-0.254464;43.239442
+6;;Rue des Pins;-0.254245;43.239671
+7;;Rue des Pins;-0.25455;43.239666
+8;;Rue des Pins;-0.254364;43.24033
+9;;Rue des Pins;-0.254623;43.239877
+10;;Rue des Pins;-0.254459;43.240498
+11;;Rue des Pins;-0.254821;43.240361
+12;;Rue des Pins;-0.254576;43.240669
+13;;Rue des Pins;-0.254861;43.240788
+15;;Rue des Pins;-0.254637;43.241044
+17;;Rue des Pins;-0.254579;43.241668
+18;;Rue des Pins;-0.254673;43.243174
+1;;Rue Henri IV;-0.254279;43.238404
+2;;Rue Henri IV;-0.253937;43.238513
+3;;Rue Henri IV;-0.254469;43.238681
+4;;Rue Henri IV;-0.254144;43.238717
+5;;Rue Henri IV;-0.254678;43.238788
+6;;Rue Henri IV;-0.254562;43.238987
+8;;Rue Henri IV;-0.254869;43.239318
+9;;Rue Henri IV;-0.255164;43.239085
+10;;Rue Henri IV;-0.25503;43.239495
+11;;Rue Henri IV;-0.255406;43.239316
+15;;Rue Henri IV;-0.255736;43.239619
+17;;Rue Henri IV;-0.256081;43.239972
+18;;Rue Henri IV;-0.255793;43.240432
+19;;Rue Henri IV;-0.256727;43.239841
+20;;Rue Henri IV;-0.256576;43.240565
+21;;Rue Henri IV;-0.256831;43.240012
+22;;Rue Henri IV;-0.256818;43.241222
+24;;Rue Henri IV;-0.257273;43.240746
+25;;Rue Henri IV;-0.257243;43.240244
+26;;Rue Henri IV;-0.256908;43.24066
+28;;Rue Henri IV;-0.25663;43.240975
+30;;Rue Henri IV;-0.257617;43.241034
+36;;Rue Henri IV;-0.259408;43.241729
+38;;Rue Henri IV;-0.260838;43.242486
+40;;Rue Henri IV;-0.261388;43.24264
+42;;Rue Henri IV;-0.263023;43.24002
+36;bis;Rue Henri IV;-0.260409;43.242357
+2;;Rue des Marronniers;-0.254927;43.238267
+3;;Rue des Marronniers;-0.255768;43.237721
+4;;Rue des Marronniers;-0.25528;43.238264
+6;;Rue des Marronniers;-0.25551;43.238173
+8;;Rue des Marronniers;-0.255842;43.238052
+10;;Rue des Marronniers;-0.256106;43.238224
+12;;Rue des Marronniers;-0.256656;43.238443
+13;;Rue des Marronniers;-0.257185;43.238173
+14;;Rue des Marronniers;-0.256941;43.238493
+15;;Rue des Marronniers;-0.257788;43.238252
+16;;Rue des Marronniers;-0.258784;43.238553
+17;;Rue des Marronniers;-0.258364;43.238248
+20;;Rue des Marronniers;-0.259554;43.238833
+22;;Rue des Marronniers;-0.260048;43.238557
+24;;Rue des Marronniers;-0.260581;43.23841
+26;;Rue des Marronniers;-0.260823;43.238478
+27;;Rue des Marronniers;-0.260999;43.238084
+29;;Rue des Marronniers;-0.261577;43.238055
+30;;Rue des Marronniers;-0.26124;43.238431
+31;;Rue des Marronniers;-0.262547;43.237971
+32;;Rue des Marronniers;-0.261679;43.238234
+36;;Rue des Marronniers;-0.262479;43.238223
+37;;Rue des Marronniers;-0.263724;43.237589
+38;;Rue des Marronniers;-0.262562;43.238083
+39;;Rue des Marronniers;-0.264171;43.23753
+40;;Rue des Marronniers;-0.263323;43.238076
+41;;Rue des Marronniers;-0.263998;43.237165
+8;bis;Rue des Marronniers;-0.25577;43.238495
+38;bis;Rue des Marronniers;-0.263281;43.238501
+10;bis;Rue des Marronniers;-0.256274;43.238419
+1;;Chemin du Pont de Boeil;-0.238599;43.229503
+2;;Chemin du Pont de Boeil;-0.237673;43.229686
+1;;Rue de la Plaine;-0.251577;43.233547
+2;;Rue de la Plaine;-0.250912;43.233279
+3;;Rue de la Plaine;-0.250552;43.23362
+4;;Rue de la Plaine;-0.250394;43.233112
+5;;Rue de la Plaine;-0.249797;43.23338
+6;;Rue de la Plaine;-0.250245;43.232568
+8;;Rue de la Plaine;-0.249498;43.23287
+10;;Rue de la Plaine;-0.248951;43.232592
+12;;Rue de la Plaine;-0.248711;43.232433
+14;;Rue de la Plaine;-0.248132;43.232837
+16;;Rue de la Plaine;-0.24786;43.232893
+1;ter;Rue de la Plaine;-0.250894;43.233676
+3;bis;Rue de la Plaine;-0.250172;43.23347
+1;bis;Rue de la Plaine;-0.251235;43.233628
+4;bis;Rue de la Plaine;-0.249843;43.232995
+8;bis;Rue de la Plaine;-0.24922;43.232618
+4;;Rue du Bois;-0.245668;43.23821
+13;;Rue du Bois;-0.243963;43.241688
+1;;Rue de Balaitous;-0.258939;43.238337
+2;;Rue de Balaitous;-0.25928;43.238247
+3;;Rue de Balaitous;-0.259044;43.237987
+4;;Rue de Balaitous;-0.259701;43.23795
+5;;Rue de Balaitous;-0.259554;43.237532
+6;;Rue de Balaitous;-0.260054;43.237661
+7;;Rue de Balaitous;-0.26003;43.237408
+8;;Rue de Balaitous;-0.260463;43.237346
+9;;Rue de Balaitous;-0.259765;43.237069
+10;;Rue de Balaitous;-0.260396;43.236999
+12;;Rue de Balaitous;-0.260849;43.236184
+13;;Rue de Balaitous;-0.259994;43.236837
+14;;Rue de Balaitous;-0.260559;43.235926
+15;;Rue de Balaitous;-0.260368;43.23669
+17;;Rue de Balaitous;-0.260518;43.236335
+2;;Rue des Ecoles;-0.253797;43.238161
+3;;Rue des Ecoles;-0.25369;43.238472
+4;;Rue des Ecoles;-0.253614;43.237919
+6;;Rue des Ecoles;-0.253458;43.238115
+7;;Rue des Ecoles;-0.252337;43.237946
+8;;Rue des Ecoles;-0.253215;43.238112
+9;;Rue des Ecoles;-0.251704;43.237886
+10;;Rue des Ecoles;-0.25316;43.237946
+11;;Rue des Ecoles;-0.25135;43.23783
+12;;Rue des Ecoles;-0.2528;43.237957
+14;;Rue des Ecoles;-0.251866;43.237731
+15;;Rue des Ecoles;-0.250125;43.237646
+18;;Rue des Ecoles;-0.251414;43.237569
+20;;Rue des Ecoles;-0.251652;43.237252
+22;;Rue des Ecoles;-0.250875;43.237397
+24;;Rue des Ecoles;-0.250485;43.237217
+5;bis;Rue des Ecoles;-0.253257;43.238565
+12;bis;Rue des Ecoles;-0.252651;43.237813
+1;;Rue des Isards;-0.261817;43.238498
+2;;Rue des Isards;-0.262351;43.238381
+3;;Rue des Isards;-0.262065;43.238714
+5;;Rue des Isards;-0.262356;43.238892
+6;;Rue des Isards;-0.262903;43.238636
+7;;Rue des Isards;-0.262746;43.239262
+9;;Rue des Isards;-0.262893;43.238991
+10;;Rue des Isards;-0.26324;43.23895
+11;;Rue des Isards;-0.263332;43.239289
+12;;Rue des Isards;-0.263561;43.238736
+13;;Rue des Isards;-0.263674;43.239399
+1;;Rue Madeland;-0.251105;43.232024
+2;;Rue Madeland;-0.2508;43.232163
+3;;Rue Madeland;-0.250196;43.232211
+4;;Rue Madeland;-0.249945;43.23235
+5;;Rue Madeland;-0.249684;43.232438
+6;;Rue Madeland;-0.249615;43.232164
+7;;Rue Madeland;-0.249102;43.2323
+8;;Rue Madeland;-0.248817;43.232178
+9;;Rue Madeland;-0.248345;43.23182
+10;;Rue Madeland;-0.248006;43.23189
+11;;Rue Madeland;-0.24792;43.231729
+12;;Rue Madeland;-0.248024;43.231548
+13;;Rue Madeland;-0.248328;43.23134
+14;;Rue Madeland;-0.24859;43.231571
+15;;Rue Madeland;-0.248685;43.231742
+17;;Rue Madeland;-0.249945;43.231939
+18;;Rue Madeland;-0.250386;43.231914
+19;;Rue Madeland;-0.250653;43.23173
+20;;Rue Madeland;-0.251073;43.231777
+1;;Rue du Lavoir;-0.250965;43.237846
+2;;Rue du Lavoir;-0.250127;43.238269
+3;;Rue du Lavoir;-0.250582;43.238087
+2;;Rue Porte Neuve;-0.253324;43.235774
+4;;Rue Porte Neuve;-0.253519;43.23571
+5;;Rue Porte Neuve;-0.254369;43.234569
+6;;Rue Porte Neuve;-0.253661;43.235631
+7;;Rue Porte Neuve;-0.254697;43.234368
+8;;Rue Porte Neuve;-0.253846;43.235469
+9;;Rue Porte Neuve;-0.254815;43.233989
+10;;Rue Porte Neuve;-0.254159;43.235352
+12;;Rue Porte Neuve;-0.254449;43.234979
+14;;Rue Porte Neuve;-0.254645;43.234778
+15;;Rue Porte Neuve;-0.256205;43.232459
+16;;Rue Porte Neuve;-0.2551;43.234819
+17;;Rue Porte Neuve;-0.256485;43.232166
+18;;Rue Porte Neuve;-0.254852;43.234646
+20;;Rue Porte Neuve;-0.254894;43.234439
+22;;Rue Porte Neuve;-0.254916;43.234287
+24;;Rue Porte Neuve;-0.255039;43.234117
+30;;Rue Porte Neuve;-0.256048;43.232871
+7;bis;Rue Porte Neuve;-0.254658;43.234291
+1;;Rue d'Ossau;-0.253986;43.23678
+2;;Rue d'Ossau;-0.25463;43.236924
+3;;Rue d'Ossau;-0.254939;43.236192
+4;;Rue d'Ossau;-0.254753;43.236775
+5;;Rue d'Ossau;-0.255183;43.235367
+6;;Rue d'Ossau;-0.255027;43.236734
+7;;Rue d'Ossau;-0.255146;43.235945
+8;;Rue d'Ossau;-0.255238;43.236656
+9;;Rue d'Ossau;-0.255442;43.235814
+10;;Rue d'Ossau;-0.255409;43.236469
+11;;Rue d'Ossau;-0.255714;43.235845
+12;;Rue d'Ossau;-0.25562;43.236098
+13;;Rue d'Ossau;-0.255632;43.235428
+14;;Rue d'Ossau;-0.255871;43.236034
+15;;Rue d'Ossau;-0.256107;43.23558
+17;;Rue d'Ossau;-0.256297;43.235453
+19;;Rue d'Ossau;-0.256269;43.235111
+23;;Rue d'Ossau;-0.256443;43.234218
+24;;Rue d'Ossau;-0.255758;43.233994
+12;bis;Rue d'Ossau;-0.255785;43.23624
+1;bis;Rue d'Ossau;-0.254578;43.236586
+23;bis;Rue d'Ossau;-0.256189;43.234047
+2;bis;Rue d'Ossau;-0.254207;43.236936
+1;;Rue des Clabades;-0.25844;43.238495
+2;;Rue des Clabades;-0.257978;43.238515
+3;;Rue des Clabades;-0.258116;43.238708
+4;;Rue des Clabades;-0.257641;43.238766
+5;;Rue des Clabades;-0.257882;43.239067
+6;;Rue des Clabades;-0.257269;43.23884
+7;;Rue des Clabades;-0.258341;43.239181
+8;;Rue des Clabades;-0.257683;43.239086
+9;;Rue des Clabades;-0.258571;43.239408
+12;;Rue des Clabades;-0.258233;43.239636
+1;;Rue des Paysans;-0.24991;43.236723
+2;;Rue des Paysans;-0.250581;43.236653
+3;;Rue des Paysans;-0.250213;43.236586
+4;;Rue des Paysans;-0.250921;43.236598
+5;;Rue des Paysans;-0.250482;43.236358
+6;;Rue des Paysans;-0.251172;43.236442
+7;;Rue des Paysans;-0.250431;43.236227
+9;;Rue des Paysans;-0.25077;43.236338
+10;;Rue des Paysans;-0.251871;43.236073
+11;;Rue des Paysans;-0.251295;43.236028
+12;;Rue des Paysans;-0.25248;43.235718
+13;;Rue des Paysans;-0.251731;43.235755
+15;;Rue des Paysans;-0.251951;43.235635
+17;;Rue des Paysans;-0.252341;43.235546
+2;bis;Rue des Paysans;-0.250918;43.236839
+7;bis;Rue des Paysans;-0.250684;43.236193
+2;;Rue du Pre du Roy;-0.250741;43.231093
+4;;Rue du Pre du Roy;-0.250427;43.231041
+6;;Rue du Pre du Roy;-0.250232;43.23148
+8;;Rue du Pre du Roy;-0.250178;43.231183
+10;;Rue du Pre du Roy;-0.24993;43.231585
+12;;Rue du Pre du Roy;-0.249595;43.231531
+14;;Rue du Pre du Roy;-0.249327;43.231705
+16;;Rue du Pre du Roy;-0.249435;43.231928
+1;;Rue du Centre;-0.25244;43.237464
+2;;Rue du Centre;-0.252797;43.237682
+3;;Rue du Centre;-0.252481;43.237263
+4;;Rue du Centre;-0.253112;43.237456
+5;;Rue du Centre;-0.252794;43.237145
+6;;Rue du Centre;-0.252736;43.237738
+7;;Rue du Centre;-0.252898;43.236981
+1;bis;Rue du Centre;-0.252606;43.237398
+2;bis;Rue du Centre;-0.252813;43.237551
+1;;Rue du Gabizos;-0.261481;43.237669
+2;;Rue du Gabizos;-0.262131;43.237925
+4;;Rue du Gabizos;-0.261881;43.237654
+5;;Rue du Gabizos;-0.260865;43.237237
+6;;Rue du Gabizos;-0.261936;43.237351
+7;;Rue du Gabizos;-0.260992;43.236941
+8;;Rue du Gabizos;-0.261728;43.237197
+9;;Rue du Gabizos;-0.260826;43.236761
+10;;Rue du Gabizos;-0.261465;43.236968
+12;;Rue du Gabizos;-0.261377;43.236704
+14;;Rue du Gabizos;-0.261117;43.236416
+2;;Rue des Pyrénées;-0.254484;43.238225
+3;;Rue des Pyrénées;-0.254141;43.237757
+4;;Rue des Pyrénées;-0.254568;43.237822
+5;;Rue des Pyrénées;-0.253908;43.237368
+6;;Rue des Pyrénées;-0.254479;43.237514
+7;;Rue des Pyrénées;-0.253797;43.237242
+8;;Rue des Pyrénées;-0.254339;43.237336
+9;;Rue des Pyrénées;-0.253679;43.237068
+10;;Rue des Pyrénées;-0.254101;43.237135
+11;;Rue des Pyrénées;-0.253448;43.236839
+12;;Rue des Pyrénées;-0.25384;43.236689
+13;;Rue des Pyrénées;-0.253249;43.236656
+15;;Rue des Pyrénées;-0.252884;43.236069
+16;;Rue des Pyrénées;-0.253584;43.236501
+17;;Rue des Pyrénées;-0.252405;43.236189
+18;;Rue des Pyrénées;-0.253504;43.236363
+20;;Rue des Pyrénées;-0.253296;43.236179
+21;;Rue des Pyrénées;-0.252154;43.235154
+22;;Rue des Pyrénées;-0.25313;43.23599
+24;;Rue des Pyrénées;-0.253056;43.235735
+25;;Rue des Pyrénées;-0.251441;43.23328
+26;;Rue des Pyrénées;-0.253044;43.235461
+27;;Rue des Pyrénées;-0.251302;43.233071
+28;;Rue des Pyrénées;-0.25274;43.235227
+30;;Rue des Pyrénées;-0.2526;43.23491
+32;;Rue des Pyrénées;-0.252412;43.234704
+34;;Rue des Pyrénées;-0.252296;43.23441
+36;;Rue des Pyrénées;-0.252163;43.23383
+38;;Rue des Pyrénées;-0.252111;43.233524
+40;;Rue des Pyrénées;-0.251837;43.232892
+44;;Rue des Pyrénées;-0.251684;43.232665
+46;;Rue des Pyrénées;-0.25165;43.232419
+48;;Rue des Pyrénées;-0.2516;43.232261
+50;;Rue des Pyrénées;-0.251533;43.2321
+52;;Rue des Pyrénées;-0.25149;43.231625
+54;;Rue des Pyrénées;-0.251329;43.231257
+56;;Rue des Pyrénées;-0.251014;43.229979
+60;;Rue des Pyrénées;-0.250718;43.229523
+64;;Rue des Pyrénées;-0.250502;43.228759
+66;;Rue des Pyrénées;-0.25065;43.228156
+68;;Rue des Pyrénées;-0.250435;43.227871
+70;;Rue des Pyrénées;-0.250298;43.227689
+72;;Rue des Pyrénées;-0.250369;43.227179
+74;;Rue des Pyrénées;-0.250625;43.227508
+76;;Rue des Pyrénées;-0.250821;43.227339
+34;bis;Rue des Pyrénées;-0.252182;43.234238
+52;bis;Rue des Pyrénées;-0.251344;43.231513
+28;ter;Rue des Pyrénées;-0.253289;43.234791
+50;bis;Rue des Pyrénées;-0.251646;43.232018
+34;ter;Rue des Pyrénées;-0.252253;43.234203
+17;bis;Rue des Pyrénées;-0.25249;43.236252
+1;;Rue du Lac;-0.246722;43.237162
+2;;Rue du Lac;-0.246787;43.236367
+3;;Rue du Lac;-0.244175;43.236461
+5;;Rue du Lac;-0.243224;43.237269
+6;;Rue du Lac;-0.245048;43.236162
+10;;Rue du Lac;-0.243856;43.236028
+1;;Rue de la Gare;-0.256133;43.239454
+2;;Rue de la Gare;-0.256533;43.239615
+4;;Rue de la Gare;-0.256918;43.239302
+6;;Rue de la Gare;-0.257375;43.238509
+8;;Rue de la Gare;-0.257975;43.238035
+10;;Rue de la Gare;-0.258308;43.237933
+11;;Rue de la Gare;-0.258835;43.23673
+12;;Rue de la Gare;-0.258517;43.237802
+13;;Rue de la Gare;-0.258978;43.236602
+14;;Rue de la Gare;-0.258808;43.237565
+16;;Rue de la Gare;-0.259018;43.237377
+17;;Rue de la Gare;-0.260327;43.235431
+18;;Rue de la Gare;-0.259148;43.237066
+20;;Rue de la Gare;-0.259488;43.236823
+21;;Rue de la Gare;-0.260775;43.234802
+24;;Rue de la Gare;-0.25993;43.23625
+26;;Rue de la Gare;-0.260761;43.235762
+4;bis;Rue de la Gare;-0.256961;43.23896
+16;bis;Rue de la Gare;-0.259534;43.237309
+2;bis;Rue de la Gare;-0.256502;43.239471
+2;;Place du Prat;-0.248838;43.236373
+4;;Place du Prat;-0.248576;43.236478
+1;;Rue du Vignemale;-0.252038;43.233323
+2;;Rue du Vignemale;-0.252874;43.23295
+4;;Rue du Vignemale;-0.253178;43.232662
+5;;Rue du Vignemale;-0.25236;43.232779
+7;;Rue du Vignemale;-0.252513;43.232577
+12;;Rue du Vignemale;-0.25449;43.231781
+1;;Lotissement de la Chataigneraie;-0.241551;43.227971
+2;;Lotissement de la Chataigneraie;-0.241222;43.228119
+3;;Lotissement de la Chataigneraie;-0.241739;43.228273
+4;;Lotissement de la Chataigneraie;-0.241412;43.2284
+5;;Lotissement de la Chataigneraie;-0.241867;43.22853
+2;;Rue de la Chataigneraie;-0.240429;43.228182
+4;;Rue de la Chataigneraie;-0.240695;43.228096
+6;;Rue de la Chataigneraie;-0.242071;43.227769
+8;;Rue de la Chataigneraie;-0.243031;43.228053
+10;;Rue de la Chataigneraie;-0.242757;43.227686
+4;bis;Rue de la Chataigneraie;-0.241828;43.227854
+4;ter;Rue de la Chataigneraie;-0.24239;43.228287
+6;ter;Rue de la Chataigneraie;-0.242733;43.228262
+1;;Rue Carrérot des Lierres;-0.251012;43.236984
+2;;Rue Carrérot des Lierres;-0.251436;43.236731
+4;;Rue Carrérot des Lierres;-0.250731;43.236689
+1;;Rue Bertruc Camy;-0.25961;43.238287
+2;;Rue Bertruc Camy;-0.260521;43.238109
+3;;Rue Bertruc Camy;-0.260065;43.238002
+4;;Rue Bertruc Camy;-0.260827;43.237817
+5;;Rue Bertruc Camy;-0.260401;43.237721
+6;;Rue Bertruc Camy;-0.26061;43.237538
+1;;Lotissement Pierre Bordenave;-0.256776;43.235332
+2;;Lotissement Pierre Bordenave;-0.257117;43.235534
+4;;Lotissement Pierre Bordenave;-0.257427;43.235061
+5;;Lotissement Pierre Bordenave;-0.257746;43.235271
+1;;Rue Bonnecaze;-0.250916;43.230377
+2;;Rue Bonnecaze;-0.251267;43.230206
+3;;Rue Bonnecaze;-0.251528;43.230053
+4;;Rue Bonnecaze;-0.251857;43.229776
+3;;Impasse des Pyrénées;-0.251292;43.228804

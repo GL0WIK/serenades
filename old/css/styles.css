@@ -1,0 +1,87 @@
+/* Base styles */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#menu-toggle {
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    z-index: 1000;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+#menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+    display: none;
+    z-index: 900;
+}
+
+#menu.menu-open {
+    display: block;
+}
+
+#menu-content {
+    padding: 10px;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    #menu-toggle {
+        top: 60px; /* Adjust to be below the menu */
+        right: 10px;
+        padding: 8px;
+    }
+
+    #menu {
+        top: 0;
+        width: 100%;
+        border-bottom: 1px solid #dee2e6;
+        display: none;
+        z-index: 900;
+    }
+
+    #menu.menu-open + #menu-toggle {
+        top: 60px; /* Adjust to be below the menu */
+    }
+
+    #menu-content {
+        padding: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    #menu-toggle {
+        top: 50px; /* Adjust to be below the menu */
+        right: 10px;
+        padding: 6px;
+    }
+
+    #menu.menu-open + #menu-toggle {
+        top: 50px; /* Adjust to be below the menu */
+    }
+
+    #menu-content {
+        padding: 6px;
+    }
+}
