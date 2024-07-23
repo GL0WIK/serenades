@@ -21,13 +21,11 @@ function setPointState(id, state, additionalData = {}) {
 
 function createStateButtons(id, marker, numero, nom_voie) {
     const container = document.createElement('div');
-    container.style.display = 'flex';
-    container.style.flexDirection = 'column';
+    container.className = 'popup-container';
 
     const addressElement = document.createElement('div');
     addressElement.textContent = `${numero} ${nom_voie}`;
     addressElement.style.fontWeight = 'bold';
-    addressElement.style.marginBottom = '5px';
     container.appendChild(addressElement);
 
     const { state, date, amount, paymentMethod, repas } = getPointState(id);
@@ -36,7 +34,6 @@ function createStateButtons(id, marker, numero, nom_voie) {
         const amountInput = document.createElement('input');
         amountInput.type = 'number';
         amountInput.placeholder = 'Montant';
-        amountInput.style.margin = '2px';
 
         const paymentMethodSelect = document.createElement('select');
         ['CB', 'ESPECE', 'CHEQUE'].forEach(method => {
@@ -45,11 +42,9 @@ function createStateButtons(id, marker, numero, nom_voie) {
             option.textContent = method;
             paymentMethodSelect.appendChild(option);
         });
-        paymentMethodSelect.style.margin = '2px';
 
         const saveButton = document.createElement('button');
         saveButton.textContent = 'Enregistrer';
-        saveButton.style.margin = '2px';
         saveButton.addEventListener('click', () => {
             const newState = states.FINAL;
             const selectedDate = new Date().toISOString();
@@ -69,26 +64,21 @@ function createStateButtons(id, marker, numero, nom_voie) {
         Object.keys(states).forEach(stateKey => {
             const button = document.createElement('button');
             button.textContent = stateKey.charAt(0).toUpperCase() + stateKey.slice(1).toLowerCase();
-            button.style.margin = '2px';
             button.addEventListener('click', () => {
                 if (stateKey === 'REPASSE') {
                     const dateTimeInput = document.createElement('input');
                     dateTimeInput.type = 'datetime-local';
-                    dateTimeInput.style.margin = '2px';
 
                     const repasCheckbox = document.createElement('input');
                     repasCheckbox.type = 'checkbox';
                     repasCheckbox.id = 'repas';
-                    repasCheckbox.style.margin = '2px';
 
                     const repasLabel = document.createElement('label');
                     repasLabel.htmlFor = 'repas';
                     repasLabel.textContent = 'Repas';
-                    repasLabel.style.margin = '2px';
 
                     const saveRepasseButton = document.createElement('button');
                     saveRepasseButton.textContent = 'Enregistrer';
-                    saveRepasseButton.style.margin = '2px';
                     saveRepasseButton.addEventListener('click', () => {
                         const newState = states[stateKey];
                         const selectedDate = dateTimeInput.value;
@@ -118,13 +108,10 @@ function createStateButtons(id, marker, numero, nom_voie) {
         if (date) {
             currentStateElement.textContent = `${repas ? 'Repas le' : 'Repasse le'} : ${new Date(date).toLocaleString()}`;
         }
-        currentStateElement.style.marginBottom = '5px';
         container.appendChild(currentStateElement);
 
-        // Add the final button and its functionality
         const finalButton = document.createElement('button');
         finalButton.textContent = 'Final';
-        finalButton.style.margin = '2px';
         finalButton.addEventListener('click', () => {
             createFinalFields();
         });
@@ -132,7 +119,6 @@ function createStateButtons(id, marker, numero, nom_voie) {
 
         const resetButton = document.createElement('button');
         resetButton.textContent = 'Retour';
-        resetButton.style.margin = '2px';
         resetButton.addEventListener('click', () => {
             setPointState(id, 'normal');
             marker.setStyle({ color: stateColors['normal'], fillColor: stateColors['normal'] });
@@ -146,12 +132,10 @@ function createStateButtons(id, marker, numero, nom_voie) {
         } else {
             currentStateElement.textContent = `État actuel: ${state.charAt(0).toUpperCase() + state.slice(1).toLowerCase()}`;
         }
-        currentStateElement.style.marginBottom = '5px';
         container.appendChild(currentStateElement);
 
         const resetButton = document.createElement('button');
         resetButton.textContent = 'Retour';
-        resetButton.style.margin = '2px';
         resetButton.addEventListener('click', () => {
             setPointState(id, 'normal');
             marker.setStyle({ color: stateColors['normal'], fillColor: stateColors['normal'] });

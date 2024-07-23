@@ -41,6 +41,8 @@ function addCircles(data) {
     // Display the menu if there are repasses today
     if (repassesToday.length > 0) {
         const menu = document.getElementById('menu');
+        menu.innerHTML = ''; // Clear previous content
+
         const menuTitle = document.createElement('h3');
         menuTitle.textContent = 'Repasses prévues aujourd\'hui';
         menu.appendChild(menuTitle);
@@ -63,5 +65,8 @@ Papa.parse('csv/AAngais.csv', {
     dynamicTyping: true,
     complete: function(results) {
         addCircles(results.data);
+    },
+    error: function(error) {
+        console.error('Error loading CSV file:', error);
     }
 });
