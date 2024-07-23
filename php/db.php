@@ -1,5 +1,5 @@
 <?php
-$servername = "192.168.10.4";
+$servername = "192.168.10.4"; // Nom du service dans docker-compose.yml
 $username = "angais";
 $password = "angaispassword";
 $dbname = "serenades";
